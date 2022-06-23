@@ -1,25 +1,5 @@
 package com.example.github;
 
-/*
-00-00 learn API
-00-40 create app, main layout
-01-15 create main activity (search, binding, onclicklistener)
-01-45 add model, create API Service
-02-30 parsing JSON in MainActivity
-03-05 find errors, view
-03-50 output imageview
-04-10 sent intent, create 2-nd view
-05-00 create model followers
-05-30 create cell for recyclerView, create recyclerViewAdapter
-07-00 find problem parsing followers array (api error)
-09-00 find problem with recyclerView (refresh recycler)
-10-00 add followers and following to recyclerView
-10-40 create profile view and activity
-10-50 create activity
-11-10 refactoring, names
-11-50
-*/
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
